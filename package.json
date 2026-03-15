@@ -1,0 +1,12 @@
+{
+  "name": "jude-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site for Jude Slade",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
